@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png">
+	<a href="https://globalaihub.com/" target="_blank"><img src="logo.png" height="200px"></a>
 </div>
 
 # Welcome to our Deployment Workshop Repo!
